@@ -16,5 +16,3 @@ Here is a simple "Hello World" Program. I created this to learn how to use pytho
 * [Github Student Developer Pack Downloading Page](https://education.github.com/pack)
 * [Python 3.11.5 Reference Manual](https://docs.python.org/3/)
 * [Web Site Name](http://url.link.goes.here)
-
-
